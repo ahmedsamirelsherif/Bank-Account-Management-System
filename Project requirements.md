@@ -1,7 +1,11 @@
 Part 1: Bank Account Management System 
+
 Objective 
+
 Implement a simple bank account management system using Python object-oriented programming. 
+
 The project should include class creation, object manipulation, and basic file handling. 
+
 Class Definition 
 Create a class named Account that includes the following: 
 Attributes: 
