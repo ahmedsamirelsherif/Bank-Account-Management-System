@@ -8,11 +8,17 @@ The project should include class creation, object manipulation, and basic file h
 
 Class Definition 
 Create a class named Account that includes the following: 
+
 Attributes: 
+
 • name: Account holder's name (string) 
+
 • id: Unique account ID generated automatically 
+
 • balance: Starting balance (default is 0.0) 
+
 Methods: 
+
 1. deposit(amount) 
 o Add the amount to the balance. 
 o Before depositing, check that the amount is not negative. 
